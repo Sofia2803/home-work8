@@ -1,0 +1,59 @@
+h3 {
+    color: pink;
+}
+p  {
+    color: grey;
+}
+
+.item-list {
+    color: aqua;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.item-title {
+    color: rgb(208, 208, 15);
+    font-size: 32px;
+    font-weight: 300;
+}
+ 
+
+
+.list li:nth-child(1){
+    color: azure;
+}
+
+
+
+.list li:nth-child(2){
+    color: rgb(6, 103, 103);
+}
+
+
+
+
+.list li:nth-child(3){
+    color: rgb(218, 18, 61);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
